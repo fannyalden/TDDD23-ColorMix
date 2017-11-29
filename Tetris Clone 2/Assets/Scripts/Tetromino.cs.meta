@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e984c840f77e554b85f90376f4e5b99
+timeCreated: 1507733927
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scoreSound: {fileID: 8300000, guid: 8137ee12b0a16b54ea90d8a744a20492, type: 3}
+  - plopSound: {fileID: 8300000, guid: 7c99c85441cae4a429a8aabcdb82dc8f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
