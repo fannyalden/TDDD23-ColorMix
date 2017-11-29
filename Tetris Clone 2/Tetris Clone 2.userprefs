@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Game.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Tetromino.cs" Line="125" Column="14" />
+      <File FileName="Assets\Scripts\Game.cs" Line="189" Column="45" />
+      <File FileName="Assets\Scripts\Spawner.cs" Line="19" Column="3" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuSystem.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
